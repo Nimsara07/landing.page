@@ -1,3 +1,3 @@
 # landing.page
 This is a landing page for FOT ICT website.
-Hello Everone!
+Hello Everyone!
