@@ -3,54 +3,6 @@
 <head>
     <meta charset="UTF-8">
     <title>FOT ICT - Landing Page</title>
-
-    <style>
-        body {
-            margin: 0;
-            font-family: Arial, sans-serif;
-            background-color: #f4f4f4;
-            text-align: center;
-        }
-
-        header {
-            background-color: #0a3d62;
-            color: white;
-            padding: 20px;
-        }
-
-        nav {
-            background-color: #1e3799;
-            padding: 10px;
-        }
-
-        nav a {
-            color: white;
-            text-decoration: none;
-            margin: 0 15px;
-            font-weight: bold;
-        }
-
-        .main-content {
-            padding: 40px;
-        }
-
-        .card {
-            border: 2px dotted black;
-            background-color: #2ecc71;
-            padding: 20px;
-            width: 60%;
-            margin: auto;
-            border-radius: 10px;
-            color: white;
-        }
-
-        footer {
-            background-color: #0a3d62;
-            color: white;
-            padding: 15px;
-            margin-top: 40px;
-        }
-    </style>
 </head>
 
 <body>
